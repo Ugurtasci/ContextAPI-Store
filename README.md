@@ -2,6 +2,7 @@
 Bu proje, React kullanılarak geliştirilmiş bir e-ticaret uygulamasıdır. Proje, ürün listesi görüntüleme, ürünleri sepete ekleme ve sepetten çıkarma gibi temel özellikleri içermektedir. Bunun yanı sıra React ile bir e-ticaret uygulaması geliştirmek ve Context API, React Router gibi konseptleri anlamak isteyenler için iyi bir başlangıç noktasıdır.
 
 <h2>Özellikler</h2>
+
 1. Ürün Listesi Görüntüleme: FakeStoreAPI üzerinden alınan ürün verileri, kategoriye göre filtrelenerek kullanıcıya sunulmaktadır.
 
 2. Sepete Ürün Ekleme: Kullanıcı, ürünleri sepete ekleyebilir. Aynı üründen birden fazla eklenmesi durumunda miktarı güncellenir.
